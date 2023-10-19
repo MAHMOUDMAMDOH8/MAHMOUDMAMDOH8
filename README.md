@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋, I'm Mahmoud mamdoh Interested in BI and data engineer</h1>
+<h1 align="center">Hi 👋, I am Mahmoud Mamdouh, a dedicated and aspiring professional with a keen interest in Business Intelligence and a strong foundation in data engineering. My passion lies in harnessing the power of data to drive informed business decisions. I hold a deep appreciation for the intricate connection between data and business success. With a solid foundation in data engineering, I've acquired essential skills and knowledge to collect, store, and process data effectively. I understand the importance of data quality, data modeling, and database management in ensuring accurate and valuable insights for business intelligence. As someone who values continuous learning and growth, I'm eager to dive deeper into the world of Business Intelligence, exploring tools and techniques that enable organizations to unlock the full potential of their data. My commitment to data-driven decision-making drives me to explore the latest trends and technologies in the field. I believe that the synergy between a strong data engineering foundation and a keen interest in Business Intelligence is the key to unlocking the true potential of data for organizational success. I look forward to contributing my expertise and collaborating with professionals who share the same passion for leveraging data to make strategic business decisions.</h1>
 
 ###
 
