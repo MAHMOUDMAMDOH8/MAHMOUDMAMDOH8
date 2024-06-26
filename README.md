@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mahmoud soliman and I'm a Data engineer, from Egypt<br> I'm on track for learning more about  Data Engineering,<br><br>🛠 Skills<br><br>    Python, SQL, Shell Programming, SSIS, Airflow, Power BI<br>    Hadoop, Spark, Hive,<br>    Docker, Git</h2>
+<h2 align="left">Hi 👋! My name is Mahmoud soliman and I'm a Data engineer, from Egypt<br> I'm on track for learning more about  Data Engineering,<br><br>🛠 Skills<br><br>    Python, c#, SQL, Shell Programming, SSIS,MAGE, Airflow, Power BI<br>    Hadoop, Spark, Hive,<br>    Docker, Git</h2>
 
 ###
 
